@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+dataset/
+ocular-disease-recognition-odir5k.zip
+*.zip
